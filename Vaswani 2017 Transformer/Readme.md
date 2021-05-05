@@ -5,7 +5,7 @@ Transformers for NLP book
 
 Buy the book - https://www.amazon.in/Transformers-Natural-Language-Processing-architectures-ebook/dp/B08S977X8K
 
-Research Paper by Google Brain Team 2017 - https://arxiv.org/abs/1706.03762
+Research Paper - Attention is All You need (2017) - https://arxiv.org/abs/1706.03762
 
 You can see the Structure of the Transformer in the image below -
 
